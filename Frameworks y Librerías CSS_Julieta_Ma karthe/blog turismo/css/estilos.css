@@ -1,0 +1,48 @@
+nav{
+background-color: #00897b;
+}
+
+#logo{
+  margin-left: 15px !important;
+}
+
+h2{
+  color:#00897b;
+  font-family: "tahoma";
+  font-size: 20px;
+  margin-left: 15px !important;
+  margin-top: 5px;
+  }
+
+#redes{
+  margin-left: 10px !important;
+  margin-bottom: 20px!important;
+  }
+
+#rusia{
+padding: 5px;
+}
+
+#cataratas{
+  padding: 5px;
+  }
+
+#tailandia{
+  padding: 5px;
+}
+
+#brasil{
+  padding: 5px;
+}
+
+#machu{
+  padding: 5px;
+}
+
+#egipto{
+  padding: 5px;
+}
+
+#holbox{
+  padding: 5px;
+}
